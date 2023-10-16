@@ -1,3 +1,2 @@
-sorted_list = sorted(num_list)
-# for i in sorted_list:
-#     print(i)
+print(skip_elements(['a','b','c','d','e','f','g']))
+# print(skip_elements(['apple','banana','carrot','dates','grapes']))
